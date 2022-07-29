@@ -1,6 +1,6 @@
 ![I am a student.](https://media-exp1.licdn.com/dms/image/C5616AQGv_EEaAEqmRw/profile-displaybackgroundimage-shrink_350_1400/0/1658238659522?e=1663804800&v=beta&t=2gRf8FmRWlkcydOy91mgotA_xK9VNGLiKc5eJeWf8fg)
 
-### Hi there 👋, I am "Eshtiaque"
+### Hi everone 👋, I am "Eshtiaque"
 #### I am a student.
 
 
