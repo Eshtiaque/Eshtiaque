@@ -6,7 +6,7 @@
 
 "I am currently studying CSE in BUBT"
 
-Skills: C programming || C++
+Skills: C programming || C++ || html || css || javascript 
 
 - 🔭 I’m currently working on learn 
 - 🌱 I’m currently learning C++ 
