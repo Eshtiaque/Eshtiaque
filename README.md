@@ -6,7 +6,7 @@
 
 "I am currently studying CSE in BUBT"
 
-Skills: | HTML | css | Bootstrap | Tailwind CSS | javascript | ReactJS | Rest API | MongoDB| C Programming |  
+Skills: | HTML | CSS | Bootstrap | Tailwind CSS | Javascript | ReactJS | Rest API | MongoDB | C Programming |  
 C++ programming | Node.js | Express.Js 
 
 - 🔭 I’m currently working on learning 
