@@ -1,15 +1,17 @@
 
 ### Hi everybody 👋, I am "Eshtiaque"
 #### I am a student.
+#### I am a Web Developer.
 
 
 "I am currently studying CSE in BUBT"
 
-Skills: C programming || C++ || html || css || javascript 
+Skills: | HTML | css | Bootstrap | Tailwind CSS | javascript | ReactJS | Rest API | MongoDB| C Programming |  
+C++ programming | Node.js | Express.Js 
 
-- 🔭 I’m currently working on learn 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on Github 
+- 🔭 I’m currently working on learning 
+- 🌱 I’m currently finding a Job. 
+- 👯 I’m looking to collaborate on GitHub 
 
 
 
