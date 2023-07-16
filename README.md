@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/eshtiaque ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshtiaque ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/eshtiaque ahmed sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshtiaque ahmed sajid" height="30" width="40" /></a>
 <a href="https://instagram.com/kitkat_sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kitkat_sajid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/eshtiaque_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/eshtiaque_7" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Eshtiaque_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/eshtiaque_7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
