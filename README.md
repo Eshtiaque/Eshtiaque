@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eshtiaque_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshtiaque_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eshtiaque ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshtiaque ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/eshtiaque ahmed sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshtiaque ahmed sajid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eshtiaque-ahmed-150097235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshtiaque ahmed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009017782174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshtiaque ahmed sajid" height="30" width="40" /></a>
 <a href="https://instagram.com/kitkat_sajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kitkat_sajid" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Eshtiaque_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/eshtiaque_7" height="30" width="40" /></a>
 </p>
