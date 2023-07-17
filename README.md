@@ -41,5 +41,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eshtiaque&theme=algolia)  
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
