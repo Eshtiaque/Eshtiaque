@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **projects such as related Web Development**
 
 - 👨‍💻 My Portfolio [https://snazzy-tarsier-0de787.netlify.app/](https://snazzy-tarsier-0de787.netlify.app/)
-  <img align="right" alt="coding" width="550" src="https://github.com/Eshtiaque/Profile-theme/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
+  <img align="right" alt="coding" width="500" src="https://github.com/Eshtiaque/Profile-theme/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
 - 💬 Ask me about **React, JavaScript, HTML, CSS, C, C++**
 
 - 📫 How to reach me **est.ahmed111@gmail.com**
