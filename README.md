@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **projects such as related Web Development**
 
-- 👨‍💻 My Portfolio [https://snazzy-tarsier-0de787.netlify.app/](https://eclectic-lamington-a0e334.netlify.app/)
+- 👨‍💻 My Portfolio [https://eclectic-lamington-a0e334.netlify.app/](https://eclectic-lamington-a0e334.netlify.app/)
   <img align="right" alt="coding" width="400" src="https://github.com/Eshtiaque/Eshtiaque/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
 - 💬 Ask me about **React, JavaScript, HTML, CSS, C, C++**
 
