@@ -32,7 +32,7 @@
   <img src="https://github.com/Eshtiaque/Eshtiaque/blob/main/bootstrap.png" alt="Bootstrap" width="100" height="40" style="background-color: #007BFF; padding: 5px; border-radius: 5px;"/>
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QZoTfJ2QIKPfX8jozF67LZj5mES2EbuH8Q&usqp=CAU" alt="Express.js" width="100" height="40"/>
+  <img src="https://github.com/Eshtiaque/Eshtiaque/blob/main/express.png" alt="Express.js" width="100" height="40"/>
 </a>
 
 </p>
