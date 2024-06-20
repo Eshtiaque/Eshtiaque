@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eshtiaque Ahmed</h1>
-<h3 align="center">A passionate Web developer from Dhaka, Bangldesh</h3>
+<h3 align="center">Face the failure, until the failure fails to face you</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=Eshtiaque&icon=2&color=0&theme=chartreuse-dark)](https://visitcount.itsvg.in)
+
+- A passionate Web developer from Dhaka, Bangladesh**
 
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT).**
 
