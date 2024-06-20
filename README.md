@@ -65,4 +65,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eshtiaque&theme=algolia)  
 
 ### ✍️ Dev Quote
-!["Face the failure, until the failure fails to face you."](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
