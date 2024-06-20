@@ -10,7 +10,7 @@
 
 - 👨‍💻 My Portfolio [https://eclectic-lamington-a0e334.netlify.app/](https://eclectic-lamington-a0e334.netlify.app/)
   <img align="right" alt="coding" width="400" src="https://github.com/Eshtiaque/Eshtiaque/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
-- 💬 Ask me about **React, JavaScript, HTML, CSS, C, C++**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **est.ahmed111@gmail.com**
 
@@ -65,4 +65,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Eshtiaque&theme=algolia)  
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+!["Face the failure, until the failure fails to face you."](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
