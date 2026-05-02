@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eshtiaque Ahmed</h1>
 <h3 align="center">Face the Failure, until the Failure fails to face you</h3>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Eshtiaque&icon=2&color=0&theme=chartreuse-dark" alt="Visit Count">
-  </a>
-</p>
+  
 
 - 👌 A passionate **WEB DEVELOPER** from Dhaka, Bangladesh
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT)**
 - 👯 I’m looking to collaborate on **projects such as related Web Development**
-- 👨‍💻 My Portfolio [https://eclectic-lamington-a0e334.netlify.app/](https://eclectic-lamington-a0e334.netlify.app)
+- 👨‍💻 My Portfolio [[https://eclectic-lamington-a0e334.netlify.app/](https://0sajid.netlify.app/)]
 <img align="right" alt="coding" width="400" src="https://github.com/Eshtiaque/Eshtiaque/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
 - 💬 Ask me about **MERN stack**
 - 📫 How to reach me **est.ahmed111@gmail.com**
