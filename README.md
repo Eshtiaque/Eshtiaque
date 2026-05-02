@@ -51,10 +51,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshtiaque&show_icons=true&locale=en&layout=compact&&theme=algolia" alt="eshtiaque" />
-  <img src="https://github-readme-stats.vercel.app/api?username=eshtiaque&show_icons=true&locale=en&theme=algolia" alt="eshtiaque" />
-</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Eshtiaque&limit=5&theme=algolia&combine_all_yearly_contributions=true)
