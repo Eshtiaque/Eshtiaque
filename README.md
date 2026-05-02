@@ -5,8 +5,8 @@
 - 👌 A passionate **WEB DEVELOPER** from Dhaka, Bangladesh
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT)**
 - 👯 I’m looking to collaborate on **projects such as related Web Development**
-- 👨‍💻 My Portfolio [[https://eclectic-lamington-a0e334.netlify.app/](https://0sajid.netlify.app/)](https://0sajid.netlify.app/)]
-<img align="right" alt="coding" width="400" src="https://github.com/Eshtiaque/Eshtiaque/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
+- 👨‍💻 My Portfolio [https://0sajid.netlify.app/](https://0sajid.netlify.app/)
+- <img align="right" alt="coding" width="400" src="https://github.com/Eshtiaque/Eshtiaque/blob/main/Modern%20Gaming%20Cover%20YouTube%20Channel%20Art%20(1).gif">
 - 💬 Ask me about **MERN stack**
 - 📫 How to reach me **est.ahmed111@gmail.com**
 - ⚡ Fun fact **I can be the reason for your smile**
