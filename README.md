@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eshtiaque Ahmed</h1>
 <h3 align="center">Face the Failure, until the Failure fails to face you</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Eshtiaque&icon=2&color=0&theme=chartreuse-dark" alt="Visit Count">
-  </a>
-</p>
-
 - 👌 A passionate **WEB DEVELOPER** from Dhaka, Bangladesh
 - 📖 I’m currently studying on **BSc in CSE at Bangladesh University of Business and Technology (BUBT)**
 - 👯 I’m looking to collaborate on **projects such as related Web Development**
@@ -35,16 +29,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eshtiaque&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Eshtiaque&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshtiaque&theme=dark" alt="GitHub Streak" />
-</div>
